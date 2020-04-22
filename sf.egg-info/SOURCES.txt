@@ -1,0 +1,8 @@
+README.md
+setup.py
+sf
+sf/__init__.py
+sf.egg-info/PKG-INFO
+sf.egg-info/SOURCES.txt
+sf.egg-info/dependency_links.txt
+sf.egg-info/top_level.txt

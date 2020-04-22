@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='sf',
      version='0.1',
-     scripts=['sf'] ,
+     scripts=['sf/__init__.py'] ,
      author="sk",
      author_email="",
      description="",
